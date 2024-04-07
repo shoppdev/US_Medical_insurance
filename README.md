@@ -21,5 +21,5 @@ What I plan to look at.
     1. Import needed libraries: panda & numpy
     2. Import insurance.csv with pandas into a pandas dataframe.
     3. Take a quick look at the data, formating, and columns
-    4. Assign the needed columns to variables.
+    4. ~~Assign the needed columns to variables.~~
     5. Plan out what I am going to do(Scope/Goal) and what functions I need to accomplish this
