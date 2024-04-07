@@ -24,4 +24,7 @@ Find the different contributing factors, such as BMI, somking, sex, or even regi
 4. Do I need to clean the data in any way?
 5. Plan out what I am going to do(Scope/Goal) and what functions I need to accomplish this
 6. Start working in Jupyter notebook
+    -Added section 1. Smokers vs. non-smokers. 
+    -Added section 2. BMI high vs. low
+7. Decided I don't have enough data, going back to add in needed info
 
