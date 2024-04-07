@@ -6,7 +6,7 @@ It looks as though this data mostly focuses on insurance charges, paired with ve
     Columns: age, sex, bmi, children, smoker, region, charges
 
 ## 2. Scope/Goal
-#### What I plan to look at:
+#### Scope:
 1. Average insurance cost of smokers vs. non-smokers.
 2. Average insurance cost of high(>25) vs low(<25) BMI.
 3. Average insurance cost of Male vs Female.
