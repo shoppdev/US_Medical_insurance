@@ -27,4 +27,8 @@ Find the different contributing factors, such as BMI, somking, sex, or even regi
     -Added section 1. Smokers vs. non-smokers. 
     -Added section 2. BMI high vs. low
 7. Decided I don't have enough data, going back to add in needed info
+8. Finished Smokers/Non-smokers
+9. Finished BMI
+10. Added and finished Smoking to BMI relation
+11. Writing conclusions 
 
