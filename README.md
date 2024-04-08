@@ -30,4 +30,3 @@ Find the different contributing factors, such as BMI, somking, sex, or even regi
 9. Finished BMI
 10. Added and finished Smoking to BMI relation
 11. Writing conclusions 
-
