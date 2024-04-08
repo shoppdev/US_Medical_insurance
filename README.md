@@ -9,8 +9,7 @@ It looks as though this data mostly focuses on insurance charges, paired with ve
 #### Scope:
 1. Average insurance cost of smokers vs. non-smokers.
 2. Average insurance cost of high(>25) vs low(<25) BMI.
-3. Average insurance cost of Male vs Female.
-4. Average insurance cost per region.
+3. Average insurance cost per region.
 4. Is BMI have any relation to smoking status?
     
 
